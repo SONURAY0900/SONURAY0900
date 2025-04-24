@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @SONURAY0900
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning full stack development using java
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me (raysonu0900@gmail.com)
+- 👋 Hi, I’m @SONURAY0900  
+- 👀 I’m interested in Web development  
+- 🌱 I’m currently learning full stack development using Java  
+- 💞️ I’m looking to collaborate on projects  
+- 📫 How to reach me: raysonu0900@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sonu-ray-7043b7290/)  
+- 🧠 [LeetCode](https://leetcode.com/u/0x61S9aUPm/)  
+
 
 
 <!---
