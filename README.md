@@ -1,5 +1,5 @@
-👋 Hi, I’m @SONURAY0900
-👀 I’m passionate about Web Development and Building Scalable Applications
+- 👋 Hi, I’m @SONURAY0900
+- 👀 I’m passionate about Web Development and Building Scalable Applications
 🌱 I’m currently learning Full Stack Development using Java, Spring Boot, React, and more
 💻 Always exploring new technologies and working on improving my Data Structures & Algorithms skills
 💞️ I’m looking to collaborate on exciting Web Development and Open Source projects
